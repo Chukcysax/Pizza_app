@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
               height: 350,
               margin: const EdgeInsets.only(top: 55),
               child: Image.asset(
-                "assets/images/chef.jpg",
+                "assets/images/chiefchef.png",
                 alignment: Alignment.center,
               ),
             ),
@@ -37,7 +37,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 height: 120,
                 margin: const EdgeInsets.only(top: 380),
                 child: Image.asset(
-                  "assets/images/full pizza.jpg",
+                  "assets/images/big pizza.png",
                 ),
               ),
             ),
